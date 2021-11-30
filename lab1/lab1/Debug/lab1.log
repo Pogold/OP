@@ -1,0 +1,5 @@
+﻿  lab1.cpp
+C:\Users\andrew\YandexDisk\Desktop\visual studio\lab1\lab1\lab1.cpp(14,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\andrew\YandexDisk\Desktop\visual studio\lab1\lab1\lab1.cpp(15,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\andrew\YandexDisk\Desktop\visual studio\lab1\lab1\lab1.cpp(16,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  lab1.vcxproj -> C:\Users\andrew\YandexDisk\Desktop\visual studio\lab1\Debug\lab1.exe
